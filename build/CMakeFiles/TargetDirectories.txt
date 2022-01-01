@@ -1,3 +1,0 @@
-/home/marzan/face_detection_office/build/CMakeFiles/rebuild_cache.dir
-/home/marzan/face_detection_office/build/CMakeFiles/OpenCVFaceDetector.dir
-/home/marzan/face_detection_office/build/CMakeFiles/edit_cache.dir
